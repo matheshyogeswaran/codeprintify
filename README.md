@@ -1,3 +1,6 @@
+# CodePrintify
+
+**CodePrintify** is a powerful Visual Studio Code extension that allows you to export your project's folder structure and code files into `.txt` format with a single click. Perfect for sharing documentation, onboarding, or code reviews!
 
 ---
 
@@ -16,6 +19,11 @@
 
 ### Step 3: Access Your Files
 Find the generated `.txt` files in the root directory of your project workspace.
+
+### Step 4: Watch the Demo
+Watch this video to see **CodePrintify** in action:
+
+[![CodePrintify Demo](https://img.youtube.com/vi/Kwb0TqtKo4g/0.jpg)](https://youtu.be/Kwb0TqtKo4g)
 
 ---
 
@@ -71,7 +79,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Enjoy seamless project documentation with CodePrintify!** 🚀
-
----
-
-Let me know if you’d like to customize this further (e.g., adding images, badges, or links).

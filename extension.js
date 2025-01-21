@@ -55,7 +55,9 @@ const excludeList = [
   'build',
   '.DS_Store',
   'package-lock.json',
-  'yarn.lock'
+  'yarn.lock',
+  'folder_structure.txt', // Exclude generated folder structure file
+  'code_files.txt'        // Exclude generated code files
 ];
 
 // Function to get folder structure recursively while excluding unwanted items

@@ -2,7 +2,7 @@
   "name": "codeprintify",
   "displayName": "CodePrintify",
   "description": "Copy project folder structure or code files with a single click. Save the folder structure and code content as `.txt` files for easy sharing and documentation.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "icon": "logo.png",
   "publisher": "Mathesh",
   "engines": {
