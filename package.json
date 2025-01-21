@@ -2,7 +2,7 @@
   "name": "codeprintify",
   "displayName": "CodePrintify",
   "description": "Effortlessly export your project's folder structure and code files into .txt format. Ideal for creating documentation, sharing with teammates, onboarding developers, or feeding your codebase into LLMs like ChatGPT.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "logo.png",
   "publisher": "Mathesh",
   "engines": {
